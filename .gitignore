@@ -3,3 +3,6 @@
 *.zip
 workspace.340055791*
 OmaOpiskele/
+
+.idea/
+out/
