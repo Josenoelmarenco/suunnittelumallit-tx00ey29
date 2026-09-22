@@ -1,3 +1,5 @@
+//Concrete Decorators	EncryptedPrinter, XMLPrinter
+// Transforman el mensaje y delegan
 public class EncryptedPrinter extends PrinterDecorator {
 
     private static final int SHIFT = 3;   // Caesar cipher; decrypt by shifting back 3

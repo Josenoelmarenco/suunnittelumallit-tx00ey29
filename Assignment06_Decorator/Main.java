@@ -1,3 +1,5 @@
+//Client	Main
+// Arma las combinaciones y llama print(...)
 public class Main {
     public static void main(String[] args) {
         Printer printer = new BasicPrinter();
