@@ -22,8 +22,9 @@ Course materials & assignment specs: https://github.com/vesavvo/design_patterns
 | 11 | Memento — Improved history functionality (undo/redo + history window) | Behavioral | [Assignment11_Memento](Assignment11_Memento) | Maven — see its README |
 | 12 | Proxy — Protected documents | Structural | [Assignment12_Proxy](Assignment12_Proxy) | `javac *.java && java Main` |
 | 13 | Visitor — File system handling | Behavioral | [Assignment13_Visitor](Assignment13_Visitor) | `javac *.java && java Main` |
+| 14 | Builder — Computer builder (+ interactive configurator) | Creational | [Assignment14_Builder](Assignment14_Builder) | `javac *.java && java Main` |
 
-Assignments 01–10, 12 and 13 are self-contained Java solutions (plain `javac` / `java`, no
+Assignments 01–10 and 12–14 are self-contained Java solutions (plain `javac` / `java`, no
 build tool), each with its own README describing the pattern and its roles.
 
 **Assignment 11 is the exception.** It extends the teacher's JavaFX example
