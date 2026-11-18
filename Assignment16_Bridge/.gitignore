@@ -1,0 +1,9 @@
+# Original Refactoring Guru files (CC BY-NC-ND 4.0): used unchanged, not committed.
+src/refactoring_guru/bridge/example/Demo.java
+src/refactoring_guru/bridge/example/OutputDemo.txt
+src/refactoring_guru/bridge/example/devices/Device.java
+src/refactoring_guru/bridge/example/devices/Radio.java
+src/refactoring_guru/bridge/example/devices/Tv.java
+src/refactoring_guru/bridge/example/remotes/Remote.java
+src/refactoring_guru/bridge/example/remotes/BasicRemote.java
+src/refactoring_guru/bridge/example/remotes/AdvancedRemote.java
