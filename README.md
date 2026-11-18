@@ -25,6 +25,7 @@ Course materials & assignment specs: https://github.com/vesavvo/design_patterns
 | 14 | Builder — Computer builder (+ interactive configurator) | Creational | [Assignment14_Builder](Assignment14_Builder) | `javac *.java && java Main` |
 | 15 | Adapter — Calendar adapter | Structural | [Assignment15_Adapter](Assignment15_Adapter) | `javac *.java && java Main` |
 | 16 | Bridge — Extending Refactoring Guru's devices & remotes (SmartTv + SmartRemote) | Structural | [Assignment16_Bridge](Assignment16_Bridge) | PDF report — see its README |
+| 17 | Flyweight — RPG map rendered with shared tile graphics (JavaFX) | Structural | [Assignment17_Flyweight](Assignment17_Flyweight) | Maven — see its README |
 
 Assignments 01–10 and 12–15 are self-contained Java solutions (plain `javac` / `java`, no
 build tool), each with its own README describing the pattern and its roles.
@@ -34,6 +35,9 @@ build tool), each with its own README describing the pattern and its roles.
 dependencies. It is therefore a small self-contained **Maven** project rather
 than a flat set of `.java` files. Open the folder in IntelliJ IDEA (detected as
 a Maven project) and run `Main`, or see its README for the command line.
+
+**Assignment 17 is also a Maven project**, because it renders the map with
+JavaFX. Open its folder in IntelliJ IDEA and run `rpgmap.Main`, or see its README.
 
 **Assignment 16 is returned as a PDF report.** Its folder contains the report and
 only the new classes; the original Refactoring Guru files it extends are licensed
