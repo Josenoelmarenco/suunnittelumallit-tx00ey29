@@ -26,8 +26,9 @@ Course materials & assignment specs: https://github.com/vesavvo/design_patterns
 | 15 | Adapter — Calendar adapter | Structural | [Assignment15_Adapter](Assignment15_Adapter) | `javac *.java && java Main` |
 | 16 | Bridge — Extending Refactoring Guru's devices & remotes (SmartTv + SmartRemote) | Structural | [Assignment16_Bridge](Assignment16_Bridge) | PDF report — see its README |
 | 17 | Flyweight — RPG map rendered with shared tile graphics (JavaFX) | Structural | [Assignment17_Flyweight](Assignment17_Flyweight) | Maven — see its README |
+| 18 | Prototype — Book recommendation system (deep cloning) | Creational | [Assignment18_Prototype](Assignment18_Prototype) | `javac *.java && java Main` |
 
-Assignments 01–10 and 12–15 are self-contained Java solutions (plain `javac` / `java`, no
+Assignments 01–10, 12–15 and 18 are self-contained Java solutions (plain `javac` / `java`, no
 build tool), each with its own README describing the pattern and its roles.
 
 **Assignment 11 is the exception.** It extends the teacher's JavaFX example
