@@ -27,6 +27,7 @@ Course materials & assignment specs: https://github.com/vesavvo/design_patterns
 | 16 | Bridge — Extending Refactoring Guru's devices & remotes (SmartTv + SmartRemote) | Structural | [Assignment16_Bridge](Assignment16_Bridge) | PDF report — see its README |
 | 17 | Flyweight — RPG map rendered with shared tile graphics (JavaFX) | Structural | [Assignment17_Flyweight](Assignment17_Flyweight) | Maven — see its README |
 | 18 | Prototype — Book recommendation system (deep cloning) | Creational | [Assignment18_Prototype](Assignment18_Prototype) | `javac *.java && java Main` |
+| 19 | Mediator — Chat app with three client windows (JavaFX) | Behavioral | [Assignment19_Mediator](Assignment19_Mediator) | Maven — see its README |
 
 Assignments 01–10, 12–15 and 18 are self-contained Java solutions (plain `javac` / `java`, no
 build tool), each with its own README describing the pattern and its roles.
@@ -39,6 +40,9 @@ a Maven project) and run `Main`, or see its README for the command line.
 
 **Assignment 17 is also a Maven project**, because it renders the map with
 JavaFX. Open its folder in IntelliJ IDEA and run `rpgmap.Main`, or see its README.
+
+**Assignment 19 is a Maven project as well**, because the chat clients are
+JavaFX windows. Open its folder in IntelliJ IDEA and run `chat.Main`, or see its README.
 
 **Assignment 16 is returned as a PDF report.** Its folder contains the report and
 only the new classes; the original Refactoring Guru files it extends are licensed
